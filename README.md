@@ -8,7 +8,9 @@ The slope isn't zero since our two p-values in vehicle_length and ground_cleranc
 
 Our R-squared for this model is 0.7149 which is high enough to be considered effective
 
-(pics)
+![Deliverable1_lm_screen](https://user-images.githubusercontent.com/90660790/147866403-f7e1ea01-4a6b-4c4e-b60d-1df8a71d4c7c.PNG)
+
+![Deliverable1_summary_screen](https://user-images.githubusercontent.com/90660790/147866413-72238ec5-38b3-421c-a45f-f286ec51d058.PNG)
 
 ## Summary Statistics on Suspension Coils
 
@@ -21,6 +23,8 @@ The null hypothesis cannot be rejected for the PSI for the Suspension_Coil.csv a
 The first two lots have p-values above 0.05 and thus the null hypothesis can't be rejected
 
 Lot 3 is again an outlier. Lot 3 has a p-value of 0.04 which is less than our assumed significance of 0.05.
+
+![t-test_screen](https://user-images.githubusercontent.com/90660790/147866406-40b57847-2fb9-4844-a17a-dfc5ac5360a1.PNG)
 
 ## Study Design: MechaCar vs Competition
 
